@@ -1,4 +1,4 @@
-Feature: Title of your feature
+Feature: Title 2
   I want to use this template for my feature file
   Scenario Outline: Title of your scenario outline
     Given I want to write a step with "<name>"
@@ -7,5 +7,5 @@ Feature: Title of your feature
 
     Examples: 
       | name  | value | status  |
-      | name1 |     5 | success |
+      | name1 |     5.2 | success |
       | name2 |     7.5 | Fail    |

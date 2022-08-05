@@ -22,10 +22,10 @@ public class ExamplesSteps {
 	   System.out.println("Step 3 - " + string);
 	}
 	
-	@When("I check for the {int} in step")
-	public void i_check_for_the_in_step(Integer int1) {
-		System.out.println("Step 2 - " + int1);
-	}
+//	@When("I check for the {int} in step")
+//	public void i_check_for_the_in_step(Integer int1) {
+//		System.out.println("Step 2 - " + int1);
+//	}
 	
 	@When("I check for the {double} in step")
 	public void i_check_for_the_in_step(Double double1) {
